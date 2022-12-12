@@ -3,7 +3,7 @@
 <h3>     
 <br>- 🌱 I’m currently learning С# 
 <br>- 🌱 I’m looking to collaborate on HSchool
-<br>- 💬 Ask me about anything, I am happy to help.
+<br>- 💬 Ask me about anything, I am happy to help. 
 <br>- 📫 How to reach me tilichkin@gmail.com
 </h3>
     
