@@ -1,8 +1,8 @@
 <h1 align="center">Hi there, I'm Viktor</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3>      
-<br>- 🌱 I’m currently learning С#    
- 
+<br>-     I am a Full Stack Developer  from Belarus.   
+<br>- 😄 I’m working as a Software .NET Engineer and contributing to frontend and backend for building web applications.
 <br>- 💬 Ask me about anything, I am happy to help. 
 <br>- 📫 How to reach me tilichkin@gmail.com 
 </h3>    
