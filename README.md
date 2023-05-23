@@ -3,7 +3,7 @@
 <h3>      
 <br>-     I am a Full Stack Developer  from Belarus.   
 <br>- 😄 I’m working as a Software .NET Engineer and contributing to frontend and backend for building web applications.
-<br>- 💬 Ask me about anything, I am happy to help. 
+<br>- 💬 Ask me about anything, I am happy to help.  
 <br>- 📫 How to reach me tilichkin@gmail.com    
 </h3>      
   
